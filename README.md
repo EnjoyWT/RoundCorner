@@ -1,2 +1,3 @@
-# RoundCorner
-图片圆角化处理 web 在线 小工具
+a simple tool for image roundcorners 
+
+#####所有代码由 LLM 生成
